@@ -3,11 +3,11 @@
 :root{
   --text-color: #000000;
   --card-front-color:#FFAAAA;
-  --card-back-color: #FF9898;
+  --card-back-color: #00809D;
 }
 
 body {
-  background: url(img/bg-desktop-yellow.webp);
+  background: url(img/bg-desktop-blue.webp);
   font-family: Gluten;
 }
 .cartao__conteudo {
