@@ -2,13 +2,13 @@
 
 :root{
   --text-color: #000000;
-  --card-front-color:#FFAAAA;
-  --card-back-color: #00809D;
+  --card-front-color:#91C8E4;
+  --card-back-color: #4682A9;
 }
 
 body {
   background: url(img/bg-desktop-blue.webp);
-  font-family: Gluten;
+  font-family: Grandstander;
 }
 .cartao__conteudo {
   background-color: var(--card-front-color);
